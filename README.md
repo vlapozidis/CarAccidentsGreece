@@ -1,4 +1,5 @@
-This project focuses on the collection, processing, and visualization of traffic accident data in Greece, aiming to uncover key patterns and risk factors that can inform public safety initiatives and urban planning.
+This project focuses on the collection, processing, 
+and visualization of traffic accident data in Greece from(2014-2020), aiming to uncover key patterns and risk factors that can inform public safety initiatives and urban planning.
 
 Tools & Technologies Used
 Python (Pandas): For API integration, data cleaning, transformation, and statistical analysis.
